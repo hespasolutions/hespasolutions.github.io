@@ -1,5 +1,13 @@
 body {
   font-family: Sans-Serif;
+  background-color: #FFC995;
+  margin: 0;
+  padding: 0;
+}
+
+header, .main, footer {
+  margin: 0;
+  padding: 2em;
 }
 
 header {
@@ -8,14 +16,23 @@ header {
 }
 
 header h1 {
- font-size: 96px;
- 
+ font-size: 72px;
+ letter-spacing: -2px;
+ line-height: 0.8;
+}
+header h1 strong {
+  font-size: 128px;
+  letter-spacing: -12px;
 }
 
 .main {
   font-size: 24px;
   color: #fff;
   background-color: #005C45;
+}
+
+.main p {
+  width: 28em;
 }
 
 footer {
