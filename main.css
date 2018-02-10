@@ -1,15 +1,19 @@
+body {
+  font-family: Sans-Serif;
+}
+
 header {
   background-color: #6B0028;
   color: #B3D2EB;
 }
 
 header h1 {
- font-size: 48px;
+ font-size: 96px;
  
 }
 
 .main {
-  font-size: 18px;
+  font-size: 24px;
   color: #fff;
   background-color: #005C45;
 }
