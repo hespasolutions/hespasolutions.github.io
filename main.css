@@ -1,11 +1,20 @@
-h1 {
+header {
   background-color: #6B0028;
   color: #B3D2EB;
-  font-size: 48px;
+}
+
+header h1 {
+ font-size: 48px;
+ 
 }
 
 .main {
   font-size: 18px;
   color: #fff;
   background-color: #005C45;
+}
+
+footer {
+  background-color: #FFC995;
+  color: #005C45;
 }
