@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css?family=Bevan');
+@import url('https://fonts.googleapis.com/css?family=Nunito:600');
 
 body {
   font-family: Sans-Serif;
@@ -19,14 +19,15 @@ header {
 }
 
 header h1 {
- font-family: 'Bevan', cursive;
+ font-family: 'Nunito', sans-serif;
  font-size: 72px;
- letter-spacing: -2px;
- line-height: 0.8;
+ letter-spacing: -4px;
+ line-height: 1.2;
+ margin:0;
 }
 header h1 strong {
   font-size: 128px;
-  letter-spacing: -12px;
+  letter-spacing: -15px;
 }
 
 .main {
