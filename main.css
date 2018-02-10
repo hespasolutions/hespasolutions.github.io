@@ -1,6 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bevan');
+
 body {
   font-family: Sans-Serif;
-  background-color: #FFC995;
+  background-color: #FFA79D;
   margin: 0;
   padding: 0;
 }
@@ -11,11 +14,12 @@ header, .main, footer {
 }
 
 header {
-  background-color: #6B0028;
-  color: #B3D2EB;
+  background-color: #7F0029;
+  color: #94D99D;
 }
 
 header h1 {
+ font-family: 'Bevan', cursive;
  font-size: 72px;
  letter-spacing: -2px;
  line-height: 0.8;
@@ -36,6 +40,6 @@ header h1 strong {
 }
 
 footer {
-  background-color: #FFC995;
+  background-color: #FFA79D;
   color: #005C45;
 }
