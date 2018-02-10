@@ -1,5 +1,9 @@
 h1 {
-  background-colour: #6B0028;
+  background-color: #6B0028;
   color: #B3D2EB;
   font-size: 48px;
+}
+
+.main {
+  background-color: #005C45;
 }
